@@ -31,29 +31,3 @@ def leyno():
 
 
 run(host='localhost',port=8080,debug=True,reloader=True)
-#
-#
-#
-from bottle import *
-
-@route('/static/<nafn>')
-def static(nafn):
-    return static_file(nafn,root='./static')
-
-@route("/")
-def kaka():
-#	timi=datetime.datetime.now()+datetime.timedelta(days=1)
-#	response.set_cookie("kaka","100", expires=timi)
-	return ("kaka til")
-
-@route("/datadel")
-def kaka():
-	response.set_cookie("sukkuladi","",expires="")
-	return ("sukkuladi ekki til")
-
-
-
-
-
-
-run(host='localhost',port=8080,debug=True,reloader=True)
