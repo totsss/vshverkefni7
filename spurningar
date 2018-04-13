@@ -1,0 +1,21 @@
+hvað er cookies?
+cookies er bara gögn sem notandi mögulega þarf, en þær halda sér á vefsíðuni þegar notandinn er að gera hvað sem er á síðunni.
+
+hvað er session?
+session er næstum því það sama og kökur en er ávalt að breytast og er oftast stærri gögn.
+
+hver er munurinn á cookies og session ?
+aðal munurinn á session og cookies er að session geymist á miðlunum en cookies geymast hjá notendanum.
+
+Hvað er chache ?
+Cache er bara gögn sem enda bara eftir ákveðin tíma svo það of fyllir ekki síðuna af gögnum.
+
+Hvað er indexedDB ?
+Það er geymsla af gögnum sem eiga ekki að skifta of mikklu máli eins og auglýsingar og það á að vera létt að leita af gögnum þar.
+
+
+hvað er websql?
+það er gagnasöfnun fyrir sql tengda hluti eins og skipanir og fleira.
+
+
+
