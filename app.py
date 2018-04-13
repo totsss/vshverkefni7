@@ -1,6 +1,6 @@
 from bottle import *
 from beaker.middleware import SessionMiddleware
-
+import os
 # Kóði hér fyrir neðan nauðsinlegur...
 session_opts = {
     'session.type': 'file',
